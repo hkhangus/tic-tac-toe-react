@@ -5,5 +5,5 @@ This is my personal assignment for the Advanced Web Programming course - VNUHCMU
 I attempted to deploy it on GitHub Pages, but unfortunately, it didn't work as expected. If anyone could provide assistance or guidance, I would greatly appreciate it.
 
 Contact me via:
-  - [email](huukhangtc@gmail.com)
+  - [email](mailto:huukhangtc@gmail.com)
   - [facebook](https://www.facebook.com/sabochee/)
